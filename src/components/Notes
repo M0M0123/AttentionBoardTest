@@ -1,0 +1,57 @@
+<div className="chart">
+    <canvas ref={this.chartRef} />
+    <Bar
+        data={this.state.chartData}
+        options={{
+            responsive:true,
+            maintainAspectRatio: true,
+            title:{
+                display:true,
+                text: this.props.title,
+                fontSize:25
+            },
+            legend:{
+                display: true,
+                position: 'bottom',
+            },
+            scales: {
+                yAxes: [
+                {
+                    ticks: {
+                    min: 0,
+                    max: 100
+                    }
+                }
+                ]
+            }
+        }}
+        />
+</div>
+
+
+
+<div>  
+        <Container>
+          <Row>
+            <Col>
+
+              <Container>
+                <Chart chartData={this.state.chartDataJA}  title='Gemeinsame Aufmerksamkeit' legendPosition="bottom"/>
+              </Container> 
+            </Col>
+            <Col>
+              <Container>
+                <Chart chartData={this.state.chartDataAA}  title='Aufmerksamkeitsähnlichkeit' legendPosition="bottom"/>
+              </Container>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <Chart chartData={this.state.chartDataP}    title='Präsenz'   legendPosition="bottom"/>
+            </Col>
+            <Col>
+              <Chart chartData={this.state.chartDataTest}  title='Test' legendPosition="bottom"/>
+            </Col>
+          </Row>
+        </Container>
+      </div>
