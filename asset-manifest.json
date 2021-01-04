@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/main.1cbd6659.chunk.js",
+    "main.js.map": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/main.1cbd6659.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/runtime-main.623c1190.js",
+    "runtime-main.js.map": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/runtime-main.623c1190.js.map",
+    "static/js/2.bc94aeb9.chunk.js": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/2.bc94aeb9.chunk.js",
+    "static/js/2.bc94aeb9.chunk.js.map": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/2.bc94aeb9.chunk.js.map",
+    "static/js/3.e9cfad3d.chunk.js": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/3.e9cfad3d.chunk.js",
+    "static/js/3.e9cfad3d.chunk.js.map": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/3.e9cfad3d.chunk.js.map",
+    "index.html": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bc94aeb9.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://M0M0123.github.io/AttentionBoardTest/static/js/2.bc94aeb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623c1190.js",
+    "static/js/2.bc94aeb9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1cbd6659.chunk.js"
+  ]
+}
