@@ -6,7 +6,7 @@ class Header extends Component {
     render() { 
         return ( 
             <div>
-                <h1 color=''>AttentionBoard</h1>
+                <h1 color=''>AttentionBoard Test2</h1>
                 <hr></hr>
             </div>
          );
