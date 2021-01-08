@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/AttentionBoardTest/static/css/main.83917a17.chunk.css",
-    "main.js": "/AttentionBoardTest/static/js/main.7c7526ba.chunk.js",
-    "main.js.map": "/AttentionBoardTest/static/js/main.7c7526ba.chunk.js.map",
-    "runtime-main.js": "/AttentionBoardTest/static/js/runtime-main.31de6f71.js",
-    "runtime-main.js.map": "/AttentionBoardTest/static/js/runtime-main.31de6f71.js.map",
-    "static/js/2.36fb933f.chunk.js": "/AttentionBoardTest/static/js/2.36fb933f.chunk.js",
-    "static/js/2.36fb933f.chunk.js.map": "/AttentionBoardTest/static/js/2.36fb933f.chunk.js.map",
-    "static/js/3.b294691f.chunk.js": "/AttentionBoardTest/static/js/3.b294691f.chunk.js",
-    "static/js/3.b294691f.chunk.js.map": "/AttentionBoardTest/static/js/3.b294691f.chunk.js.map",
+    "main.css": "/AttentionBoardTest/static/css/main.6d55ecde.chunk.css",
+    "main.js": "/AttentionBoardTest/static/js/main.5cbe98f6.chunk.js",
+    "main.js.map": "/AttentionBoardTest/static/js/main.5cbe98f6.chunk.js.map",
+    "runtime-main.js": "/AttentionBoardTest/static/js/runtime-main.8894f727.js",
+    "runtime-main.js.map": "/AttentionBoardTest/static/js/runtime-main.8894f727.js.map",
+    "static/js/2.212ebd83.chunk.js": "/AttentionBoardTest/static/js/2.212ebd83.chunk.js",
+    "static/js/2.212ebd83.chunk.js.map": "/AttentionBoardTest/static/js/2.212ebd83.chunk.js.map",
+    "static/js/3.d88916e8.chunk.js": "/AttentionBoardTest/static/js/3.d88916e8.chunk.js",
+    "static/js/3.d88916e8.chunk.js.map": "/AttentionBoardTest/static/js/3.d88916e8.chunk.js.map",
     "index.html": "/AttentionBoardTest/index.html",
-    "static/css/main.83917a17.chunk.css.map": "/AttentionBoardTest/static/css/main.83917a17.chunk.css.map",
-    "static/js/2.36fb933f.chunk.js.LICENSE.txt": "/AttentionBoardTest/static/js/2.36fb933f.chunk.js.LICENSE.txt",
+    "static/css/main.6d55ecde.chunk.css.map": "/AttentionBoardTest/static/css/main.6d55ecde.chunk.css.map",
+    "static/js/2.212ebd83.chunk.js.LICENSE.txt": "/AttentionBoardTest/static/js/2.212ebd83.chunk.js.LICENSE.txt",
     "static/media/IISM.6500eab5.jpg": "/AttentionBoardTest/static/media/IISM.6500eab5.jpg",
     "static/media/KIT.36547446.png": "/AttentionBoardTest/static/media/KIT.36547446.png",
     "static/media/Woche1.7410af8f.mp4": "/AttentionBoardTest/static/media/Woche1.7410af8f.mp4",
     "static/media/Woche2.c1d95c65.mp4": "/AttentionBoardTest/static/media/Woche2.c1d95c65.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.31de6f71.js",
-    "static/js/2.36fb933f.chunk.js",
-    "static/css/main.83917a17.chunk.css",
-    "static/js/main.7c7526ba.chunk.js"
+    "static/js/runtime-main.8894f727.js",
+    "static/js/2.212ebd83.chunk.js",
+    "static/css/main.6d55ecde.chunk.css",
+    "static/js/main.5cbe98f6.chunk.js"
   ]
 }
