@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AttentionBoardTest/static/css/main.6d55ecde.chunk.css",
-    "main.js": "/AttentionBoardTest/static/js/main.478ab1c5.chunk.js",
-    "main.js.map": "/AttentionBoardTest/static/js/main.478ab1c5.chunk.js.map",
+    "main.js": "/AttentionBoardTest/static/js/main.896ab64f.chunk.js",
+    "main.js.map": "/AttentionBoardTest/static/js/main.896ab64f.chunk.js.map",
     "runtime-main.js": "/AttentionBoardTest/static/js/runtime-main.8894f727.js",
     "runtime-main.js.map": "/AttentionBoardTest/static/js/runtime-main.8894f727.js.map",
     "static/js/2.324c5707.chunk.js": "/AttentionBoardTest/static/js/2.324c5707.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.8894f727.js",
     "static/js/2.324c5707.chunk.js",
     "static/css/main.6d55ecde.chunk.css",
-    "static/js/main.478ab1c5.chunk.js"
+    "static/js/main.896ab64f.chunk.js"
   ]
 }
